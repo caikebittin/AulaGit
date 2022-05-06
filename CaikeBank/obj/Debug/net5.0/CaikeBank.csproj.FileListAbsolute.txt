@@ -1,0 +1,16 @@
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\bin\Debug\net5.0\CaikeBank.exe
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\bin\Debug\net5.0\CaikeBank.deps.json
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\bin\Debug\net5.0\CaikeBank.runtimeconfig.json
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\bin\Debug\net5.0\CaikeBank.runtimeconfig.dev.json
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\bin\Debug\net5.0\CaikeBank.dll
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\bin\Debug\net5.0\ref\CaikeBank.dll
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\bin\Debug\net5.0\CaikeBank.pdb
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.csproj.AssemblyReference.cache
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.AssemblyInfoInputs.cache
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.AssemblyInfo.cs
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.csproj.CoreCompileInputs.cache
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.dll
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\ref\CaikeBank.dll
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.pdb
+C:\Users\caike.bittin\source\repos\CaikeBank\CaikeBank\obj\Debug\net5.0\CaikeBank.genruntimeconfig.cache
